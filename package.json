@@ -113,7 +113,7 @@
     "is-ansi": "^1.0.0",
     "lint-staged": "^15.2.2",
     "markdownlint-cli": "^0.39.0",
-    "mocha": "^10.2.0",
+    "mocha": "^11.0.1",
     "nyc": "^15.1.0",
     "prettier": "^3.2.5",
     "remark": "^15.0.1",
